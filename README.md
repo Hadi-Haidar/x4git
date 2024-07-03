@@ -7,4 +7,4 @@ new branch a new virtual copy  develop
 
 new we make changes -_-
 
-merge test remove emoji
+merge test remove emoji test merge (pull request)
