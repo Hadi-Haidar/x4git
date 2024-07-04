@@ -9,4 +9,8 @@ new we make changes -_-
 
 merge test remove emoji test merge (pull request)
 
+<<<<<<< HEAD
 regards..++
+=======
+......deve
+>>>>>>> develop
